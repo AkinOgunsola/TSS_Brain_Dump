@@ -3,13 +3,13 @@
 
 #### Welcome to the TSS repository for all educational material.
 
-This repository is designed to help all TSS Members achieve Architect Status
+This repository is designed to help all TSS Members achieve Architect Status.
 
-For instructions on how to properly markup this repo, see the following:
+For instructions on how to properly markdown this repo, see the following:
 [Click Here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
-List of Topics:
+**List of Topics:**
 * Business Analysis:  [Github]Click Here
 * Machine learning:   [Github]Click Here
 * Coding Languages
