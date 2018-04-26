@@ -10,8 +10,8 @@ For instructions on how to properly markdown this repo, see the following:
 
 
 **List of Topics:**
-* Business Analysis:  [Github]Click Here
-* Machine learning:   [Github]Click Here
+* Business Analysis
+* Machine learning
 * Coding Languages
   * Javascript
   * Python
