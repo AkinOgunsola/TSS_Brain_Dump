@@ -13,10 +13,11 @@ For instructions on how to properly markdown this repo, see the following:
 * Business Analysis
 * Machine learning
 * Coding Languages
-  * Javascript
+  * Node Js
+    * [Threads in Node.Js](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
   * Python
   * PHP
   * Go
 * Architecture Practices
   * [Creating a modern OCR pipeline](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
-  * 
+  *
