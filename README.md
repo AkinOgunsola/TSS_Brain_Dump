@@ -14,7 +14,8 @@ For instructions on how to properly markdown this repo, see the following:
 * Machine learning
 * Coding Languages
   * Node Js
-    * [Threads in Node.Js](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
+    * [Threads in Node 10.5.0](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
+    * [Working with Environment Variables](https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html)
   * Python
   * PHP
   * Go
