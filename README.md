@@ -17,5 +17,6 @@ For instructions on how to properly markdown this repo, see the following:
   * Python
   * PHP
   * Go
-
-[TSS Article of the Month](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+* Architecture Practices
+  [Creating a modern OCR pipeline](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+  
