@@ -1,7 +1,6 @@
 # TSS_Brain_Dump
-###### Invest in Yourself
 
-#### Welcome to the TSS repository for all educational material.
+#### Welcome to the TSS Learning Repository
 
 This repository is designed to help all TSS Members achieve Architect Status.
 
@@ -14,7 +13,8 @@ For instructions on how to properly markdown this repo, see the following:
   *
 * Self Development
   * [Just in case VS Just in time Learning](https://hackernoon.com/just-in-case-vs-just-in-time-learning-c87f61d24360)
-  * 
+  * [How to learn in one week...](https://medium.com/swlh/how-to-learn-in-one-week-what-a-job-would-teach-you-in-6-months-95cf751fcc1a)
+  *
 * Business Analysis
 * Machine learning
 * Coding Languages
@@ -23,7 +23,8 @@ For instructions on how to properly markdown this repo, see the following:
     * [Working with Environment Variables](https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html)
     * [Value vs References](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
     * [Running Node Js in Production](https://mrvautin.com/running-nodejs-applications-in-production-forever-vs-supervisord-vs-pm2/)
-    *
+    * [Common Mistakes...](https://medium.com/swlh/common-mistakes-that-node-js-developers-make-9df7106d09f1)
+    * 
   * Python
 * Architecture Practices
   * [Creating a modern OCR pipeline](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
