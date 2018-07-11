@@ -39,6 +39,7 @@ For instructions on how to properly markdown this repo, see the following:
     * [How to make beautiful CLI apps with Node](https://codewithhugo.com/how-to-make-beautiful-simple-cli-apps-with-node/)
     * [Useful tools for Node Js Projects](https://medium.com/@anephenix/useful-tools-for-your-node-js-projects-2018-edition-6a5062f24078)
     * [Managing Environment Variables in Node Js](https://medium.com/@rafaelvidaurre/managing-environment-variables-in-node-js-2cb45a55195f)
+    * [Node.js Best Practices & Design Standards](http://thenodeway.io/)
   * Python
 * Architecture Practices
   * [Creating a modern OCR pipeline](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
